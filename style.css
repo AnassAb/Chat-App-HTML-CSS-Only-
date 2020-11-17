@@ -260,7 +260,7 @@ main {
     display: flex;
     flex-direction: column;
     height: 100%;
-    overflow: scroll;
+    overflow-Y: scroll;
   }
   #text {
     width: 100vw;
